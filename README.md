@@ -101,7 +101,7 @@ java Sanjeev
 
 ## 👨‍💻 Author
 
-**Sanjeev (Student Project)**
+**Sanjeevkumar R (Student Project)**
 
 ---
 
